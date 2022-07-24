@@ -22,8 +22,9 @@ ul{
 }
 
 .footer-section{
-    background-color: #24262b;
+    /* background-color: #24262b; */
     padding: 70px;
+    background-color: rgb(8, 8, 146);
 
 }
 .footer-col{
